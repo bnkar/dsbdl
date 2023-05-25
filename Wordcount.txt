@@ -1,0 +1,8 @@
+ecipse
+file new javaproject WordCount libraries add external jar filesystem usr lib hadoop select all jars ok add external jar client add all jars finish.
+
+WordCount src new java class WordCount 
+
+https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html#Source_Code
+
+export 
